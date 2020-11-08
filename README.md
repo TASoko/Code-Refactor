@@ -9,6 +9,6 @@ The code required fine tuning on both the index.html and style.css files. In reg
 In the style.css file elements had to be renamed/corrected due to the change in the html document. There were several elements that had the same properties and were thus grouped together for better legibility. And lastly, due to the removal of the footer heading the corresponding css element was deleted. 
 
 Screenshots:
-![Deployed Site 1](assets/images/Screenshot1.png)
-![Deployed Site 2](assets/images/Screenshot2.png)
-![Deployed Site 1](assets/images/Screenshot3.png)
+![Deployed Site 1](docs/assets/images/Screenshot1.png)
+![Deployed Site 2](docs/assets/images/Screenshot2.png)
+![Deployed Site 1](docs/assets/images/Screenshot3.png)
